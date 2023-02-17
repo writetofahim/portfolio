@@ -55,7 +55,9 @@ const Contact = () => {
             </button>
           </form>
 
-          {/* <div className="dark:text-white text-gray-700 text-center p-5 bg-gray-700 rounded-md">
+          {/* 
+          hello
+          <div className="dark:text-white text-gray-700 text-center p-5 bg-gray-700 rounded-md">
             <FontAwesomeIcon
               className="p-2 bg-green-500 rounded-full"
               icon={faCheck}
